@@ -23,6 +23,7 @@
 
 .active {
     display: flex;
+    justify-content: flex-end;
 }
 
 .btn {
