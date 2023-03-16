@@ -1,0 +1,30 @@
+.nav {
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    flex-direction: row;
+    background-color: grey;
+}
+
+.nav-title {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+
+}
+
+.nav-links {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    list-style-type: none;
+    justify-content: flex-end;
+}
+
+.active {
+    display: flex;
+}
+
+.btn {
+    display: flex;
+}
